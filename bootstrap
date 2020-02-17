@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href ="css/bootstrap.min.css">
+    <script src"js/bootstrap.min.js"></script>
+</head>
+<body>
+
+    <div class="row">
+        <div class="col-md-6" style="background-color: coral;">kolom 1</div>
+        <div class="col-md-6" style="background-color:cornflowerblue;">kolom 1</div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-3" style="background-color: coral;">kolom 1</div>
+        <div class="col-md-9" style="background-color:cornflowerblue;">kolom 1</div>
+    </div>
+    <img src="cat1.jpg" class="img-thumbnail border border-dark" width="20%">
+    <img src="boo.png" class="rounded-circle" width=20%>
+    <button type="button" class="btn btn-dark"></button>
+
+</html>
